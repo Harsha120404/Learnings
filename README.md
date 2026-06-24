@@ -55,6 +55,8 @@ Documenting my learnings.
 - Representational State Transfer
 - Client ---HTTP---> Server
 
+# Day 2 24/06/2026
+
 
 
 
