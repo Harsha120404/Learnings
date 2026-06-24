@@ -56,6 +56,13 @@ Documenting my learnings.
 - Client ---HTTP---> Server
 
 # Day 2 24/06/2026
+# Fast API
+## Installation
+- pip install "fastapi[standard]"
+- To run
+- - fastapi dev main.py
+    
+
 
 
 
