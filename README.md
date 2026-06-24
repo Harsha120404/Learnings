@@ -61,6 +61,14 @@ Documenting my learnings.
 - pip install "fastapi[standard]"
 - To run
 - - fastapi dev main.py
+
+open vs code 
+and open a new folder 
+
+git --version  
+
+git clone https://github.com/Harsha120404/Learnings.git
+
     
 
 
